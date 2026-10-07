@@ -1,1 +1,1 @@
-## Course Three of the Machine Learning Specialization - Supervised Machine Learning: Regression and Classification
+## Course Three of the Machine Learning Specialization - Unsupervised Learning: Recommenders and Reinforcement Learning
